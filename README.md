@@ -6,7 +6,7 @@ Repozytorium zawiera cztery modele uczenia maszynowego dla bazy "Online news pop
 Baza zawiera 61 atrybutów w tym 2 nie służące do predykcji ("url", "timedelta") oraz 1 target ("shares").
 
 Celem projektu jest wytrenowanie kilku modeli uczenia maszynowego, które będą przewidywać jak często dane artykuły będą udostępniane w internecie na podstawie określonych atrybutów.
-Problem jest bardziej złożony, ponieważ baza zawiera ogromną ilość danych, które nie chcą współpracować z modelami.
+Problem jest bardziej złożony, ponieważ baza zawiera ogromną ilość danych, które nie chcą współpracować z utworzonymi modelami.
 
 #### Optymalizacja danych:
 - Usunięcie wartości nie biorących udziału w procesie predykcji,
