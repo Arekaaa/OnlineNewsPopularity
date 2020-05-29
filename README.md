@@ -28,3 +28,7 @@ Problem jest bardziej złożony, ponieważ baza zawiera ogromną ilość danych,
 ##### Informacje
 Więcej informacji na temat projektu od strony teoretycznej, a także wszelkie analizy i wnioski znajdują się
 w pliku o nazwie "Projekt_OnlineNewsPopularity.pdf"
+
+#### Autorzy:
+- Arkadiusz Pajor
+- Mateusz Ornat
