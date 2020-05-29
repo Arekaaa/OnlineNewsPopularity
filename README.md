@@ -31,6 +31,6 @@ Projekt zawiera jeden plik opisujący teorie, a także cztery notatniki Jupytera
 Więcej informacji na temat projektu od strony teoretycznej, a także wszelkie analizy i wnioski znajdują się
 w pliku o nazwie "Projekt_OnlineNewsPopularity.pdf"
 
-#### Autorzy:
+##### Autorzy:
 - Arkadiusz Pajor
 - Mateusz Ornat
