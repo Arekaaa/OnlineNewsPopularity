@@ -16,15 +16,15 @@ Projekt zawiera jeden plik opisujący teorie, a także cztery notatniki Jupytera
 - Zastosowanie standaryzacji danych metodą MinMaxScaler.
 
 #### Utworzone modele uczenia:
-- Regresja liniowa -> 7% dokładności,
-- Regresja liniowa z zastosowaniem redukcji wymiarowości (40 wymiarów z 58) -> PCA 5%, TruncatedSVD 6% dokładności,
-- Sieć neuronowa -> 9% dokładności,
-- Sieć neuronowa z zastosowaniem redukcji wymiarowości (40 wymiarów z 58) -> PCA 1%, TruncatedSVD 3% dokładności.
+- Regresja liniowa -> 12% dokładności,
+- Regresja liniowa z zastosowaniem redukcji wymiarowości (40 wymiarów z 58) -> PCA 9%, TruncatedSVD 8% dokładności,
+- Sieć neuronowa -> 14% dokładności,
+- Sieć neuronowa z zastosowaniem redukcji wymiarowości (40 wymiarów z 58) -> PCA 4%, TruncatedSVD 10% dokładności.
 
 
 ## Wniosek
-1. Najlepszy wynik uzyskano z modelu sieci neuronowej (9%), choć dalej jest to wynik poniżej oczekiwań.
-2. Pomimo zastosowania wielu optymalizacji danych, maksymalny wynik wytrenowania wszystkich utworzonych modeli to 9%, co jest wynikiem zdecydowanie zbyt niskim.
+1. Najlepszy wynik uzyskano z modelu sieci neuronowej (14%), choć dalej jest to wynik poniżej oczekiwań.
+2. Pomimo zastosowania wielu optymalizacji danych, maksymalny wynik wytrenowania wszystkich utworzonych modeli to 14%, co jest wynikiem zdecydowanie zbyt niskim.
 3. Baza danych, na podstawie której został utworzony projekt sprawia, że ciężko jest utworzyć dokładny model uczenia maszynowego.
 
 ##### Informacje
